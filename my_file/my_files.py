@@ -4,7 +4,7 @@
 # w (write)-yozish,bosh bolmasa ochirib ustiga yozadi
 # a (append)-faylga yozadi bosh bolmasa ,davomidan yozadi
 # x- fayl yaratadi.agar shu nomli fayl bolsa xatolik beradi
-
+*********************************************************
 
 # f=open("text_file3.txt", "x")
 # f.write("\n text ichiga yangi sozlar yozilgan!")
